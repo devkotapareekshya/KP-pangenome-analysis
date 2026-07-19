@@ -71,6 +71,12 @@ hypervirulence in *K. pneumoniae* arise largely from distinct genomic background
 *Left: Pangenome structure across all 30 genomes. Right: Per-gene frequency in ST258
 vs ST23; red = ST258-enriched, blue = ST23-enriched, grey = core or intermediate.*
 
+## Pangenome accumulation curve
+
+![Accumulation curve](results/figures/accumulation_curve.png)
+
+*The pan-genome (red) continues rising at n=30, consistent with an open pangenome — characteristic of K. pneumoniae's extensive horizontal gene transfer capacity. The core genome (blue) rapidly stabilises, indicating a conserved functional backbone across both lineages.*
+
 ## Pipeline
 
 | Step | Tool | Version | Purpose |
@@ -146,8 +152,3 @@ devkotapareekshya08@gmail.com
 ORCID: 0009-0003-8645-0626
 Tri-Chandra Multiple Campus, Tribhuvan University, Kathmandu, Nepal
 
-## Pangenome accumulation curve
-
-![Accumulation curve](results/figures/accumulation_curve.png)
-
-*The pan-genome (red) continues rising at n=30, consistent with an open pangenome — characteristic of K. pneumoniae's extensive horizontal gene transfer capacity. The core genome (blue) rapidly stabilises, indicating a conserved functional backbone across both lineages.*
