@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Devkota
+    given-names: Pareekshya
+    orcid: https://orcid.org/0009-0003-8645-0626
+title: "Comparative Pangenome Analysis of Carbapenem-Resistant (ST258) and Hypervirulent (ST23) Klebsiella pneumoniae"
+version: 1.0.0
+date-released: 2026-07-19
+url: "https://github.com/devkotapareekshya/KP-pangenome-analysis"
+license: MIT
