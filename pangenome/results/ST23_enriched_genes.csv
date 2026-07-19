@@ -1,0 +1,452 @@
+Gene,Annotation,st258_freq,st23_freq
+yjcS_2~~~yjcS_1,Putative alkyl/aryl-sulfatase YjcS,0.2,0.9333333333333333
+iprA_3~~~iprA_4~~~iprA_2,Inhibitor of hydrogen peroxide resistance,0.2,0.9333333333333333
+yjcS_1~~~yjcS_2,Putative alkyl/aryl-sulfatase YjcS,0.2,0.9333333333333333
+group_3898,UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase,0.2,0.9333333333333333
+group_3802,hypothetical protein,0.13333333333333333,1.0
+manC1,Mannose-1-phosphate guanylyltransferase 1;hypothetical protein,0.13333333333333333,1.0
+group_2594,hypothetical protein,0.2,0.9333333333333333
+algC,Phosphomannomutase/phosphoglucomutase,0.13333333333333333,1.0
+group_4315,hypothetical protein,0.2,0.8666666666666667
+group_1150,hypothetical protein,0.13333333333333333,0.9333333333333333
+group_4008,hypothetical protein,0.0,1.0
+group_3796,IS66 family transposase ISKox1,0.06666666666666667,0.9333333333333333
+group_3795,hypothetical protein,0.06666666666666667,0.9333333333333333
+group_3654,hypothetical protein;IS5 family transposase IS4811,0.0,1.0
+frwD,PTS system fructose-like EIIB component 3,0.0,1.0
+group_3598,hypothetical protein,0.0,1.0
+group_3470,hypothetical protein,0.06666666666666667,0.9333333333333333
+tktA_1,Transketolase 1,0.0,1.0
+group_3087,hypothetical protein,0.0,1.0
+group_2941,hypothetical protein,0.0,1.0
+chbA_3,PTS system NN'-diacetylchitobiose-specific EIIA component,0.0,1.0
+group_2284,PTS system fructose-specific EIIB'BC component,0.0,1.0
+srlB_2,PTS system glucitol/sorbitol-specific EIIA component,0.0,1.0
+uspG_2,Universal stress protein UP12,0.0,1.0
+derI,D-erythrulose-4-phosphate isomerase,0.0,1.0
+pepE,Peptidase E,0.0,1.0
+ydfG_2,NADP-dependent 3-hydroxy acid dehydrogenase YdfG,0.0,1.0
+group_994,hypothetical protein,0.0,1.0
+eryH,L-erythrulose-1-phosphate isomerase,0.0,1.0
+group_885,HTH-type transcriptional activator RhaR,0.0,1.0
+cutD_2,Choline trimethylamine-lyase activating enzyme,0.0,1.0
+group_730,hypothetical protein,0.0,1.0
+talB_2,Transaldolase B,0.0,1.0
+sorC_3,Sorbitol operon regulator,0.0,1.0
+pdxA2_1,D-erythronate 4-phosphate dehydrogenase,0.0,1.0
+kdgT,2-keto-3-deoxygluconate permease,0.0,1.0
+manP_1,PTS system mannose-specific EIIBCA component,0.0,1.0
+group_506,Multidrug resistance protein MdtA,0.0,1.0
+group_163,hypothetical protein,0.0,1.0
+cutC_1,Choline trimethylamine-lyase,0.0,1.0
+fryA,Multiphosphoryl transfer protein 1,0.0,1.0
+bepE,Efflux pump membrane transporter BepE,0.0,1.0
+group_4318,hypothetical protein,0.0,0.9333333333333333
+group_4171,hypothetical protein,0.0,0.9333333333333333
+lspA_2,Lipoprotein signal peptidase,0.0,0.9333333333333333
+group_4089,hypothetical protein,0.0,0.9333333333333333
+group_4086,hypothetical protein,0.0,0.9333333333333333
+yceC_1~~~yceC,Stress response protein SCP2,0.0,0.9333333333333333
+group_4085,hypothetical protein,0.0,0.9333333333333333
+group_4073,hypothetical protein,0.0,0.9333333333333333
+group_4007,hypothetical protein,0.0,0.9333333333333333
+sdcS,Sodium-dependent dicarboxylate transporter SdcS,0.0,0.9333333333333333
+group_3891,hypothetical protein,0.0,0.9333333333333333
+group_3882,hypothetical protein,0.0,0.9333333333333333
+group_3844,hypothetical protein,0.0,0.9333333333333333
+hns_3~~~hns_2,DNA-binding protein H-NS,0.0,0.9333333333333333
+group_3826,hypothetical protein;Alpha-L-rhamnosidase,0.0,0.9333333333333333
+pifC_2~~~pifC_1~~~pifC,Transcriptional repressor PifC,0.0,0.9333333333333333
+cadA_2~~~kdpB_2,putative cadmium-transporting ATPase;Potassium-transporting ATPase ATP-binding subunit,0.0,0.9333333333333333
+group_3819,Sensor histidine kinase RcsC,0.0,0.9333333333333333
+lacZ_1,hypothetical protein;Beta-galactosidase,0.0,0.9333333333333333
+group_3813,hypothetical protein,0.0,0.9333333333333333
+licC_2~~~licC_1~~~licC_4~~~licC_3,Lichenan permease IIC component,0.0,0.9333333333333333
+arcA_1~~~rssB_1,Aerobic respiration control protein ArcA;hypothetical protein;Regulator of RpoS,0.0,0.9333333333333333
+celA_1~~~celA_3,PTS system cellobiose-specific EIIB component,0.0,0.9333333333333333
+group_3807,hypothetical protein,0.0,0.9333333333333333
+group_3798,hypothetical protein,0.0,0.9333333333333333
+group_3794,hypothetical protein,0.0,0.9333333333333333
+group_3778,hypothetical protein,0.0,0.9333333333333333
+group_3777,Chromosome-partitioning ATPase Soj;hypothetical protein,0.0,0.9333333333333333
+group_3764,hypothetical protein,0.0,0.9333333333333333
+fepA_3~~~pfeA_2,Ferrienterobactin receptor;Ferric enterobactin receptor,0.0,0.9333333333333333
+group_3751,hypothetical protein,0.0,0.9333333333333333
+yciC_1~~~yciC_6~~~yciC_3,Putative metal chaperone YciC,0.0,0.9333333333333333
+topB_2~~~topB_1,hypothetical protein;DNA topoisomerase 3,0.0,0.9333333333333333
+group_3713,hypothetical protein,0.0,0.9333333333333333
+group_3712,hypothetical protein;IS5 family transposase IS903,0.0,0.9333333333333333
+group_3707,hypothetical protein,0.0,0.9333333333333333
+group_3692,3'-5' exonuclease DinG,0.0,0.9333333333333333
+group_3669,hypothetical protein,0.0,0.9333333333333333
+glxR_2~~~glxR_1~~~glxR,2-hydroxy-3-oxopropionate reductase,0.0,0.9333333333333333
+group_3640,hypothetical protein;IS5 family transposase IS903,0.0,0.9333333333333333
+group_3628,hypothetical protein,0.0,0.9333333333333333
+group_3623,hypothetical protein,0.0,0.9333333333333333
+group_3610,hypothetical protein;IS110 family transposase IS1663,0.0,0.9333333333333333
+rapA_2~~~rapA_1,RNA polymerase-associated protein RapA,0.0,0.9333333333333333
+group_3583,hypothetical protein,0.0,0.9333333333333333
+group_3574,hypothetical protein,0.0,0.9333333333333333
+group_3573,hypothetical protein,0.0,0.9333333333333333
+group_3564,hypothetical protein,0.0,0.9333333333333333
+allD,Ureidoglycolate dehydrogenase (NAD(+)),0.0,0.9333333333333333
+iucC,Aerobactin synthase,0.0,0.9333333333333333
+aes,Acetyl esterase,0.0,0.9333333333333333
+group_3514,hypothetical protein,0.0,0.9333333333333333
+group_3508,hypothetical protein,0.0,0.9333333333333333
+group_3487,hypothetical protein,0.0,0.9333333333333333
+group_3486,hypothetical protein,0.0,0.9333333333333333
+yceD_4,General stress protein 16U,0.0,0.9333333333333333
+group_3485,General stress protein 16U,0.0,0.9333333333333333
+group_3484,Putative membrane-bound redox modulator Alx,0.0,0.9333333333333333
+group_3483,hypothetical protein,0.0,0.9333333333333333
+group_3482,hypothetical protein,0.0,0.9333333333333333
+group_3481,hypothetical protein,0.0,0.9333333333333333
+stiP,Cysteine protease StiP,0.0,0.9333333333333333
+group_3480,hypothetical protein,0.0,0.9333333333333333
+group_3479,General stress protein 16U,0.0,0.9333333333333333
+group_3478,hypothetical protein,0.0,0.9333333333333333
+group_3477,hypothetical protein,0.0,0.9333333333333333
+group_3475,hypothetical protein,0.0,0.9333333333333333
+group_3474,hypothetical protein,0.0,0.9333333333333333
+group_3473,hypothetical protein,0.0,0.9333333333333333
+group_3472,hypothetical protein,0.0,0.9333333333333333
+group_3471,hypothetical protein,0.0,0.9333333333333333
+group_3469,IS21 family transposase ISSen8,0.0,0.9333333333333333
+group_3393,hypothetical protein,0.0,0.9333333333333333
+group_3122,hypothetical protein,0.0,0.9333333333333333
+group_3081,hypothetical protein,0.0,0.9333333333333333
+group_3074,hypothetical protein,0.0,0.9333333333333333
+group_3073,hypothetical protein,0.0,0.9333333333333333
+group_3063,hypothetical protein,0.0,0.9333333333333333
+group_3052,hypothetical protein,0.0,0.9333333333333333
+group_3043,hypothetical protein,0.0,0.9333333333333333
+group_3022,hypothetical protein,0.0,0.9333333333333333
+group_2958,IS3 family transposase IS2,0.0,0.9333333333333333
+group_2957,hypothetical protein,0.0,0.9333333333333333
+group_2942,hypothetical protein,0.0,0.9333333333333333
+group_2936,hypothetical protein,0.0,0.9333333333333333
+group_2880,hypothetical protein,0.0,0.9333333333333333
+group_2879,hypothetical protein,0.0,0.9333333333333333
+group_2823,hypothetical protein,0.0,0.9333333333333333
+group_2821,IS3 family transposase IS1400,0.0,0.9333333333333333
+group_2767,hypothetical protein,0.0,0.9333333333333333
+group_2749,hypothetical protein,0.0,0.9333333333333333
+group_2702,hypothetical protein,0.0,0.9333333333333333
+group_2673,hypothetical protein,0.0,0.9333333333333333
+group_2585,hypothetical protein,0.0,0.9333333333333333
+group_2570,hypothetical protein,0.0,0.9333333333333333
+group_2555,IS3 family transposase IS1222,0.0,0.9333333333333333
+group_2539,IS3 family transposase IS1400,0.0,0.9333333333333333
+group_2538,IS3 family transposase ISYpe1,0.0,0.9333333333333333
+group_2505,IS1 family transposase IS1N,0.0,0.9333333333333333
+group_2497,hypothetical protein,0.0,0.9333333333333333
+group_2496,hypothetical protein,0.0,0.9333333333333333
+group_2438,hypothetical protein,0.0,0.9333333333333333
+group_2425,hypothetical protein,0.0,0.9333333333333333
+group_2400,hypothetical protein,0.0,0.9333333333333333
+group_2382,hypothetical protein,0.0,0.9333333333333333
+group_2300,hypothetical protein,0.0,0.9333333333333333
+group_2270,hypothetical protein,0.0,0.9333333333333333
+group_2214,hypothetical protein,0.0,0.9333333333333333
+group_2204,hypothetical protein,0.0,0.9333333333333333
+group_2194,Putative anti-sigma factor antagonist,0.0,0.9333333333333333
+group_2159,hypothetical protein,0.0,0.9333333333333333
+intS_1,Prophage integrase IntS,0.0,0.9333333333333333
+group_2077,IS3 family transposase ISSen4,0.0,0.9333333333333333
+group_2076,putative protein,0.0,0.9333333333333333
+group_2055,IS256 family transposase ISSod4,0.0,0.9333333333333333
+group_2027,hypothetical protein,0.0,0.9333333333333333
+group_2026,hypothetical protein,0.0,0.9333333333333333
+group_2015,hypothetical protein,0.0,0.9333333333333333
+group_1923,hypothetical protein,0.0,0.9333333333333333
+group_1910,hypothetical protein,0.0,0.9333333333333333
+group_1889,hypothetical protein,0.0,0.9333333333333333
+group_1877,hypothetical protein,0.0,0.9333333333333333
+group_1866,hypothetical protein,0.0,0.9333333333333333
+merR1,Mercuric resistance operon regulatory protein,0.0,0.9333333333333333
+group_1851,hypothetical protein,0.0,0.9333333333333333
+group_1835,hypothetical protein,0.0,0.9333333333333333
+vapC_2,tRNA(fMet)-specific endonuclease VapC,0.0,0.9333333333333333
+group_1823,hypothetical protein,0.0,0.9333333333333333
+group_1822,hypothetical protein,0.0,0.9333333333333333
+group_1772,hypothetical protein,0.0,0.9333333333333333
+gmm,GDP-mannose mannosyl hydrolase,0.0,0.9333333333333333
+decR_2,DNA-binding transcriptional activator DecR,0.0,0.9333333333333333
+group_1751,hypothetical protein,0.0,0.9333333333333333
+group_1742,IS3 family transposase ISYps8,0.0,0.9333333333333333
+ibpB_1,Small heat shock protein IbpB,0.0,0.9333333333333333
+group_1738,hypothetical protein,0.0,0.9333333333333333
+group_1737,hypothetical protein,0.0,0.9333333333333333
+group_1693,hypothetical protein,0.0,0.9333333333333333
+allA,Ureidoglycolate lyase,0.0,0.9333333333333333
+group_1664,hypothetical protein,0.0,0.9333333333333333
+group_1663,hypothetical protein,0.0,0.9333333333333333
+rayT,REP-associated tyrosine transposase,0.0,0.9333333333333333
+def_2,Peptide deformylase,0.0,0.9333333333333333
+group_1584,hypothetical protein,0.0,0.9333333333333333
+group_1565,hypothetical protein,0.0,0.9333333333333333
+group_1564,hypothetical protein,0.0,0.9333333333333333
+ybcI,Inner membrane protein YbcI,0.0,0.9333333333333333
+group_1535,hypothetical protein,0.0,0.9333333333333333
+group_1488,hypothetical protein,0.0,0.9333333333333333
+group_1472,hypothetical protein,0.0,0.9333333333333333
+group_1464,hypothetical protein,0.0,0.9333333333333333
+group_1463,Tn3 family transposase ISYps3,0.0,0.9333333333333333
+group_1441,hypothetical protein,0.0,0.9333333333333333
+group_1440,hypothetical protein,0.0,0.9333333333333333
+group_1391,hypothetical protein,0.0,0.9333333333333333
+group_1350,hypothetical protein,0.0,0.9333333333333333
+group_1335,hypothetical protein,0.0,0.9333333333333333
+group_1308,hypothetical protein,0.0,0.9333333333333333
+group_1297,hypothetical protein,0.0,0.9333333333333333
+group_1287,hypothetical protein,0.0,0.9333333333333333
+group_1270,hypothetical protein,0.0,0.9333333333333333
+group_1269,IS3 family transposase IS1400,0.0,0.9333333333333333
+group_1244,hypothetical protein,0.0,0.9333333333333333
+group_1227,hypothetical protein,0.0,0.9333333333333333
+group_1218,IS3 family transposase ISEc27,0.0,0.9333333333333333
+group_1214,hypothetical protein,0.0,0.9333333333333333
+group_1198,hypothetical protein,0.0,0.9333333333333333
+group_1168,hypothetical protein,0.0,0.9333333333333333
+group_1131,2-succinyl-6-hydroxy-24-cyclohexadiene-1-carboxylate synthase,0.0,0.9333333333333333
+group_1117,IS3 family transposase IS1400,0.0,0.9333333333333333
+group_1113,hypothetical protein,0.0,0.9333333333333333
+group_1103,2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase,0.0,0.9333333333333333
+group_1097,hypothetical protein,0.0,0.9333333333333333
+group_1022,IS3 family transposase ISYps8,0.0,0.9333333333333333
+group_983,hypothetical protein,0.0,0.9333333333333333
+hyi_1,Hydroxypyruvate isomerase,0.0,0.9333333333333333
+group_972,Tyrosine recombinase XerC,0.0,0.9333333333333333
+group_971,hypothetical protein,0.0,0.9333333333333333
+allE,(S)-ureidoglycine aminohydrolase,0.0,0.9333333333333333
+frcA_2,Fructose import ATP-binding protein FrcA,0.0,0.9333333333333333
+group_924,hypothetical protein,0.0,0.9333333333333333
+allR,HTH-type transcriptional repressor AllR,0.0,0.9333333333333333
+group_895,IS5 family transposase IS903,0.0,0.9333333333333333
+group_893,hypothetical protein,0.0,0.9333333333333333
+btuD_8,Vitamin B12 import ATP-binding protein BtuD,0.0,0.9333333333333333
+aidA,Quorum-quenching protein AidA,0.0,0.9333333333333333
+group_819,hypothetical protein,0.0,0.9333333333333333
+ygbT,CRISPR-associated endonuclease Cas1,0.0,0.9333333333333333
+group_785,hypothetical protein,0.0,0.9333333333333333
+arcC2,Carbamate kinase 2,0.0,0.9333333333333333
+group_774,hypothetical protein,0.0,0.9333333333333333
+group_770,hypothetical protein,0.0,0.9333333333333333
+group_763,hypothetical protein,0.0,0.9333333333333333
+group_756,hypothetical protein,0.0,0.9333333333333333
+group_733,hypothetical protein,0.0,0.9333333333333333
+allS_1,HTH-type transcriptional activator AllS,0.0,0.9333333333333333
+group_721,ISNCY family transposase ISSen7,0.0,0.9333333333333333
+iucB,N(6)-hydroxylysine O-acetyltransferase,0.0,0.9333333333333333
+group_689,Hydroxypyruvate reductase,0.0,0.9333333333333333
+group_671,hypothetical protein,0.0,0.9333333333333333
+group_657,IS110 family transposase ISKpn42,0.0,0.9333333333333333
+fcl,GDP-L-fucose synthase,0.0,0.9333333333333333
+group_648,hypothetical protein,0.0,0.9333333333333333
+feuC_2,Iron-uptake system permease protein FeuC,0.0,0.9333333333333333
+group_600,Alcohol dehydrogenase,0.0,0.9333333333333333
+gnl,Gluconolactonase,0.0,0.9333333333333333
+fbpA,Fe(3+)-binding periplasmic protein,0.0,0.9333333333333333
+fbpC,Fe(3+) ions import ATP-binding protein FbpC,0.0,0.9333333333333333
+noc,Nucleoid occlusion protein,0.0,0.9333333333333333
+group_579,hypothetical protein,0.0,0.9333333333333333
+casC,CRISPR system Cascade subunit CasC,0.0,0.9333333333333333
+group_568,hypothetical protein,0.0,0.9333333333333333
+group_560,hypothetical protein,0.0,0.9333333333333333
+xylF_1,D-xylose-binding periplasmic protein,0.0,0.9333333333333333
+group_553,hypothetical protein,0.0,0.9333333333333333
+ydiO,putative BsuMI modification methylase subunit YdiO,0.0,0.9333333333333333
+group_542,hypothetical protein,0.0,0.9333333333333333
+group_523,hypothetical protein,0.0,0.9333333333333333
+group_486,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit,0.0,0.9333333333333333
+gmd,GDP-mannose 46-dehydratase,0.0,0.9333333333333333
+group_451,hypothetical protein,0.0,0.9333333333333333
+glxK,Glycerate 3-kinase,0.0,0.9333333333333333
+intS_4,Prophage integrase IntS,0.0,0.9333333333333333
+group_394,hypothetical protein,0.0,0.9333333333333333
+group_386,hypothetical protein,0.0,0.9333333333333333
+group_382,hypothetical protein,0.0,0.9333333333333333
+group_373,hypothetical protein,0.0,0.9333333333333333
+allC,Allantoate amidohydrolase,0.0,0.9333333333333333
+xylH_1,Xylose transport system permease protein XylH,0.0,0.9333333333333333
+group_346,hypothetical protein,0.0,0.9333333333333333
+group_344,putative sulfoacetate transporter SauU,0.0,0.9333333333333333
+group_342,hypothetical protein,0.0,0.9333333333333333
+iucD,L-lysine N6-monooxygenase,0.0,0.9333333333333333
+group_306,hypothetical protein,0.0,0.9333333333333333
+ybbY,Putative purine permease YbbY,0.0,0.9333333333333333
+garP_1,putative galactarate transporter,0.0,0.9333333333333333
+group_299,hypothetical protein,0.0,0.9333333333333333
+allB_1,Allantoinase,0.0,0.9333333333333333
+group_269,hypothetical protein,0.0,0.9333333333333333
+group_263,hypothetical protein,0.0,0.9333333333333333
+group_245,hypothetical protein,0.0,0.9333333333333333
+ybbW,Putative allantoin permease,0.0,0.9333333333333333
+group_226,hypothetical protein,0.0,0.9333333333333333
+group_204,hypothetical protein,0.0,0.9333333333333333
+group_197,hypothetical protein,0.0,0.9333333333333333
+fdrA,Protein FdrA,0.0,0.9333333333333333
+group_166,hypothetical protein,0.0,0.9333333333333333
+iucA,N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase,0.0,0.9333333333333333
+gcl,Glyoxylate carboligase,0.0,0.9333333333333333
+acsAB_1,Cellulose synthase 1,0.0,0.9333333333333333
+group_108,hypothetical protein,0.0,0.9333333333333333
+wzc,Tyrosine-protein kinase wzc,0.0,0.9333333333333333
+iutA_2,Ferric aerobactin receptor,0.0,0.9333333333333333
+group_85,hypothetical protein,0.0,0.9333333333333333
+malP_1,Maltodextrin phosphorylase,0.0,0.9333333333333333
+group_35,Tn3 family transposase ISNpu13,0.0,0.9333333333333333
+group_4283,hypothetical protein,0.06666666666666667,0.8
+group_4281,hypothetical protein,0.06666666666666667,0.8
+cysS_5~~~cysS_2~~~cysS_4~~~cysS_3,hypothetical protein;Cysteine--tRNA ligase,0.0,0.8666666666666667
+pyrC_2~~~pyrC_3~~~allB_2,Dihydroorotase;Allantoinase,0.0,0.8666666666666667
+group_4174,hypothetical protein,0.0,0.8666666666666667
+group_4154,hypothetical protein,0.0,0.8666666666666667
+group_4109,hypothetical protein,0.0,0.8666666666666667
+group_4037,hypothetical protein,0.0,0.8666666666666667
+group_4023,hypothetical protein,0.06666666666666667,0.8
+group_3953,hypothetical protein,0.0,0.8666666666666667
+group_3930,hypothetical protein,0.0,0.8666666666666667
+group_3829,hypothetical protein,0.0,0.8666666666666667
+mdtD_1~~~stp_2,hypothetical protein;Putative multidrug resistance protein MdtD;Multidrug resistance protein Stp,0.0,0.8666666666666667
+group_3820,hypothetical protein,0.0,0.8666666666666667
+kynB,hypothetical protein;Kynurenine formamidase,0.0,0.8666666666666667
+mpdB~~~betA_2,hypothetical protein;2-methyl-12-propanediol dehydrogenase;Oxygen-dependent choline dehydrogenase,0.0,0.8666666666666667
+rep_1~~~addA_1~~~rep_2,ATP-dependent DNA helicase Rep;ATP-dependent helicase/nuclease subunit A,0.0,0.8666666666666667
+group_3797,hypothetical protein,0.0,0.8666666666666667
+group_3773,hypothetical protein,0.0,0.8666666666666667
+yciC_2~~~yciC_3,Putative metal chaperone YciC,0.0,0.8666666666666667
+ttdB_2~~~ttdB,L(+)-tartrate dehydratase subunit beta,0.0,0.8666666666666667
+group_3748,Thiol:disulfide interchange protein DsbC;hypothetical protein,0.0,0.8666666666666667
+group_3740,hypothetical protein,0.0,0.8666666666666667
+group_3732,hypothetical protein,0.0,0.8666666666666667
+group_3705,hypothetical protein,0.0,0.8666666666666667
+group_3685,hypothetical protein,0.0,0.8666666666666667
+cysH_3,hypothetical protein;Phosphoadenosine phosphosulfate reductase,0.0,0.8666666666666667
+yraJ~~~elfC_2~~~lpfC,Outer membrane usher protein YraJ;putative outer membrane usher protein ElfC;putative outer membrane usher protein LpfC',0.0,0.8666666666666667
+group_3661,hypothetical protein,0.0,0.8666666666666667
+group_3660,hypothetical protein,0.0,0.8666666666666667
+group_3619,hypothetical protein,0.0,0.8666666666666667
+group_3559,HTH-type transcriptional regulator BetI,0.0,0.8666666666666667
+group_3535,hypothetical protein,0.0,0.8666666666666667
+group_3534,hypothetical protein,0.0,0.8666666666666667
+group_3476,hypothetical protein,0.0,0.8666666666666667
+group_3468,hypothetical protein,0.0,0.8666666666666667
+group_3464,Multidrug efflux ATP-binding/permease protein,0.0,0.8666666666666667
+group_3463,Enterochelin esterase,0.0,0.8666666666666667
+group_3064,hypothetical protein,0.06666666666666667,0.8
+group_3023,hypothetical protein,0.0,0.8666666666666667
+group_3001,hypothetical protein,0.0,0.8666666666666667
+group_2899,hypothetical protein,0.0,0.8666666666666667
+group_2822,hypothetical protein,0.0,0.8666666666666667
+group_2723,hypothetical protein,0.0,0.8666666666666667
+group_2690,hypothetical protein,0.0,0.8666666666666667
+group_2627,hypothetical protein,0.0,0.8666666666666667
+group_2613,hypothetical protein,0.0,0.8666666666666667
+group_2537,hypothetical protein,0.0,0.8666666666666667
+group_2495,hypothetical protein,0.0,0.8666666666666667
+group_2423,hypothetical protein,0.0,0.8666666666666667
+group_2336,hypothetical protein,0.0,0.8666666666666667
+group_2297,hypothetical protein,0.0,0.8666666666666667
+group_2146,hypothetical protein,0.0,0.8666666666666667
+group_2120,hypothetical protein,0.0,0.8666666666666667
+group_2119,hypothetical protein,0.0,0.8666666666666667
+group_2118,hypothetical protein,0.0,0.8666666666666667
+iscR_1,HTH-type transcriptional regulator IscR,0.06666666666666667,0.8
+group_2066,hypothetical protein,0.0,0.8666666666666667
+srlB_1,PTS system glucitol/sorbitol-specific EIIA component,0.0,0.8666666666666667
+group_1984,hypothetical protein,0.0,0.8666666666666667
+group_1821,hypothetical protein,0.0,0.8666666666666667
+ycbV_2,putative fimbrial-like protein YcbV,0.0,0.8666666666666667
+group_1579,Protein FecR,0.0,0.8666666666666667
+group_1578,putative RNA polymerase sigma factor FecI,0.0,0.8666666666666667
+srlA_1,PTS system glucitol/sorbitol-specific EIIC component,0.0,0.8666666666666667
+group_1480,IS3 family transposase ISEc36,0.0,0.8666666666666667
+group_1384,ISKra4 family transposase ISCep1,0.0,0.8666666666666667
+group_1358,hypothetical protein,0.0,0.8666666666666667
+group_1307,NADPH-dependent quinone reductase ArsH,0.0,0.8666666666666667
+ybdM_2,putative protein YbdM,0.0,0.8666666666666667
+group_1213,hypothetical protein,0.0,0.8666666666666667
+lpfB_2,putative fimbrial chaperone LpfB,0.0,0.8666666666666667
+group_1067,hypothetical protein,0.0,0.8666666666666667
+clsB_1,Cardiolipin synthase B,0.0,0.8666666666666667
+group_993,hypothetical protein,0.0,0.8666666666666667
+hyi_2,Hydroxypyruvate isomerase,0.0,0.8666666666666667
+group_847,hypothetical protein,0.0,0.8666666666666667
+group_784,Glutathione transport system permease protein GsiD,0.0,0.8666666666666667
+ttdA,L(+)-tartrate dehydratase subunit alpha,0.0,0.8666666666666667
+group_773,Nodulation protein D 2,0.0,0.8666666666666667
+group_762,DNA primase TraC,0.0,0.8666666666666667
+group_732,hypothetical protein,0.0,0.8666666666666667
+group_715,hypothetical protein,0.0,0.8666666666666667
+rhaS_7,HTH-type transcriptional activator RhaS,0.0,0.8666666666666667
+group_682,Glutathione transport system permease protein GsiC,0.0,0.8666666666666667
+group_681,Fimbria adhesin protein,0.0,0.8666666666666667
+srlE_1,PTS system glucitol/sorbitol-specific EIIB component,0.0,0.8666666666666667
+group_635,hypothetical protein,0.0,0.8666666666666667
+oppD_1,Oligopeptide transport ATP-binding protein OppD,0.0,0.8666666666666667
+iolG_2,Myo-inositol 2-dehydrogenase,0.0,0.8666666666666667
+group_582,hypothetical protein,0.0,0.8666666666666667
+group_569,Vitamin B12 import ATP-binding protein BtuD,0.0,0.8666666666666667
+group_565,hypothetical protein,0.0,0.8666666666666667
+luxA_2,Alkanal monooxygenase alpha chain,0.0,0.8666666666666667
+elmGT,Elloramycin glycosyltransferase ElmGT,0.0,0.8666666666666667
+hpxO_2,FAD-dependent urate hydroxylase,0.0,0.8666666666666667
+group_457,hypothetical protein,0.06666666666666667,0.8
+group_453,Putative flavoprotein monooxygenase,0.0,0.8666666666666667
+group_427,26-dihydropseudooxynicotine hydrolase,0.0,0.8666666666666667
+group_387,hypothetical protein,0.0,0.8666666666666667
+group_348,hypothetical protein,0.0,0.8666666666666667
+hyuC,N-carbamoyl-L-amino-acid hydrolase,0.0,0.8666666666666667
+group_307,hypothetical protein,0.0,0.8666666666666667
+group_292,hypothetical protein,0.0,0.8666666666666667
+group_225,hypothetical protein,0.0,0.8666666666666667
+group_192,hypothetical protein,0.0,0.8666666666666667
+era_2,GTPase Era,0.0,0.8666666666666667
+dppA_1,Periplasmic dipeptide transport protein,0.0,0.8666666666666667
+group_131,hypothetical protein,0.0,0.8666666666666667
+group_97,Fe(3+) dicitrate transport protein FecA,0.0,0.8666666666666667
+group_95,hypothetical protein,0.06666666666666667,0.8
+group_49,hypothetical protein,0.0,0.8666666666666667
+recD2,ATP-dependent RecD-like DNA helicase,0.0,0.8666666666666667
+group_4103,hypothetical protein,0.0,0.8
+group_4084,RepFIB replication protein A,0.0,0.8
+group_4042,hypothetical protein,0.0,0.8
+group_3825,hypothetical protein,0.0,0.8
+group_3641,hypothetical protein,0.0,0.8
+mdtH_3,Multidrug resistance protein MdtH;hypothetical protein,0.0,0.8
+hisI_2,Phosphoribosyl-AMP cyclohydrolase,0.0,0.8
+group_3520,hypothetical protein,0.0,0.8
+group_3465,Putative metal chaperone YciC,0.0,0.8
+group_3286,IS3 family transposase ISKpn1,0.0,0.8
+group_3284,IS3 family transposase ISKpn1,0.0,0.8
+group_3058,hypothetical protein,0.0,0.8
+group_3024,hypothetical protein,0.0,0.8
+group_2540,IS3 family transposase ISEc36,0.0,0.8
+group_2424,hypothetical protein,0.0,0.8
+higB,mRNA interferase HigB,0.0,0.8
+group_1998,hypothetical protein,0.0,0.8
+higA,Antitoxin HigA,0.0,0.8
+group_1707,hypothetical protein,0.0,0.8
+group_1694,hypothetical protein,0.0,0.8
+group_1681,hypothetical protein,0.0,0.8
+zur_2,Zinc uptake regulation protein,0.0,0.8
+group_1462,hypothetical protein,0.0,0.8
+group_1452,hypothetical protein,0.0,0.8
+group_1416,hypothetical protein,0.0,0.8
+group_1170,hypothetical protein,0.0,0.8
+oppD_3,Oligopeptide transport ATP-binding protein OppD,0.0,0.8
+group_894,hypothetical protein,0.0,0.8
+oppF_4,Oligopeptide transport ATP-binding protein OppF,0.0,0.8
+group_875,putative oxidoreductase/MSMEI_2347,0.0,0.8
+thiL_2,Thiamine-monophosphate kinase,0.0,0.8
+dnaT_2,Primosomal protein 1,0.0,0.8
+nitA,Aliphatic nitrilase,0.0,0.8
+group_475,hypothetical protein,0.0,0.8
+group_332,hypothetical protein,0.0,0.8
+ptsJ_2,Vitamin B6 salvage pathway transcriptional repressor PtsJ,0.0,0.8
+acs_2,Acetyl-coenzyme A synthetase,0.0,0.8
+nikA_2,Nickel-binding protein NikA,0.0,0.8
+group_152,hypothetical protein,0.0,0.8
+group_149,hypothetical protein,0.0,0.8

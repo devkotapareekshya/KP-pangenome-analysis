@@ -1,0 +1,17 @@
+name: kp-pangenome
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - ncbi-datasets-cli
+  - prokka=1.14.6
+  - panaroo=1.3.4
+  - biopython
+  - pandas
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+    - kleborate

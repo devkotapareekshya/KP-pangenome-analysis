@@ -1,0 +1,22 @@
+# Raw genome assemblies (regenerate via download_genomes.sh)
+data/genomes/
+data/*.zip
+data/*.fasta
+data/*.fna
+
+# Prokka annotation outputs (regenerate locally, large + numerous small files)
+annotations/*/
+
+# Panaroo intermediate working files (keep only final summary tables/figures)
+pangenome/results/panaroo_output/aligned_gene_sequences/
+pangenome/results/panaroo_output/*.aln
+pangenome/results/panaroo_output/*.tree
+
+# Kleborate raw per-genome outputs if regenerable
+pangenome/results/kleborate_raw/
+
+# General
+*.log
+.DS_Store
+__pycache__/
+*.pyc
