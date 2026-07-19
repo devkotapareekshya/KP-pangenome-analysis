@@ -145,3 +145,9 @@ Pareekshya Devkota
 devkotapareekshya08@gmail.com
 ORCID: 0009-0003-8645-0626
 Tri-Chandra Multiple Campus, Tribhuvan University, Kathmandu, Nepal
+
+## Pangenome accumulation curve
+
+![Accumulation curve](results/figures/accumulation_curve.png)
+
+*The pan-genome (red) continues rising at n=30, consistent with an open pangenome — characteristic of K. pneumoniae's extensive horizontal gene transfer capacity. The core genome (blue) rapidly stabilises, indicating a conserved functional backbone across both lineages.*
